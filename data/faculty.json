@@ -1,0 +1,20 @@
+[
+    {
+        "employeeCode": "123456",
+        "facultyName": "John Doe",
+        "department": "Computer Science",
+        "section": "PSITCHE-BBA-I-A"
+    },
+    {
+        "employeeCode": "789012",
+        "facultyName": "Jane Smith",
+        "department": "Mathematics",
+        "section": "MATH101"
+    },
+    {
+        "employeeCode": "345678",
+        "facultyName": "Emily Johnson",
+        "department": "Business",
+        "section": "BBA101"
+    }
+]
